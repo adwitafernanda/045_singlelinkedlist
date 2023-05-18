@@ -186,7 +186,7 @@ int main() {
 		}
 		catch (exception e)
 		{
-			cout << "Terjadi Kesalahan" << endl;
+			cout << "Terjadi Kesalahan" << endl; 
 		}
 	}
 }
