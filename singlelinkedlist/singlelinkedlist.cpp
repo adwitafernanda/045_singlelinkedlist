@@ -176,5 +176,6 @@ int main() {
 				break;
 			}
 		}
+		catch (exception e)
 	}
 }
